@@ -1,40 +1,76 @@
-# 🌍 3D Earth Visualization
+# Hi there 👋
 
+## 🚀 About Me
+I'm a passionate developer who loves creating amazing things with code! I enjoy working on open-source projects and contributing to the community.
+
+## 🛠️ Technologies & Tools
 <div align="center">
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/3d-earth-visualization.svg?style=social&label=Star)](https://github.com/yourusername/3d-earth-visualization)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/3d-earth-visualization.svg?style=social&label=Fork)](https://github.com/yourusername/3d-earth-visualization)
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
 
 </div>
 
-<div align="center">
+## 📊 GitHub Stats
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-## 🚀 项目简介
+## 🌟 My Projects
 
-这是一个使用 **Three.js** 构建的交互式 3D 地球可视化项目。通过现代 Web 技术，实现了真实的地球渲染效果，包括地形纹理、法线贴图和高光效果。
+| Project Name | Description | Tech Stack | Link |
+|--------------|-------------|------------|------|
+| Project 1 | A web application that does something awesome | React, Node.js, MongoDB | [Link](https://github.com/your-username/project1) |
+| Project 2 | An API service for managing data efficiently | Express, PostgreSQL | [Link](https://github.com/your-username/project2) |
+| Project 3 | A mobile app for productivity enhancement | React Native, Firebase | [Link](https://github.com/your-username/project3) |
 
-## ✨ 功能特性
+## 🎯 Current Focus
+- Learning new technologies like Rust and Go
+- Contributing more to open source projects
+- Building scalable applications
+- Improving my algorithm skills
 
-- 🌍 **真实地球渲染**: 使用高分辨率纹理贴图展示地球表面
-- 🎨 **高级材质**: 支持漫反射、法线和高光贴图
-- 🖱️ **交互控制**: 支持鼠标拖拽旋转地球
-- 📱 **响应式设计**: 自适应不同屏幕尺寸
-- 🌙 **动态光照**: 环境光和定向光源结合
-- ⚡ **流畅动画**: 使用 requestAnimationFrame 实现平滑渲染
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=xcode)
 
-## 🛠️ 技术栈
+## 🤝 Let's Connect!
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
-- **Three.js**: 3D 图形库
-- **HTML5/CSS3**: 前端基础
-- **JavaScript**: 交互逻辑
-- **WebGL**: 3D 渲染引擎
+</div>
 
-## 📋 项目结构
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+## 💬 Quote of the Day
+> "The best way to predict the future is to invent it." - Alan Kay
+
+## 📝 Recent Blog Posts
+- [How to Write Clean Code](https://your-blog.com/clean-code-tips)
+- [Getting Started with React Hooks](https://your-blog.com/react-hooks-guide)
+- [Understanding Asynchronous JavaScript](https://your-blog.com/async-js-explained)
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to connect with me or check out my repositories.</i>
+</p>
