@@ -32,8 +32,6 @@ I'm a passionate developer who loves creating amazing things with code! I enjoy 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | Project 1 | A web application that does something awesome | React, Node.js, MongoDB | [Link](https://github.com/your-username/project1) |
-| Project 2 | An API service for managing data efficiently | Express, PostgreSQL | [Link](https://github.com/your-username/project2) |
-| Project 3 | A mobile app for productivity enhancement | React Native, Firebase | [Link](https://github.com/your-username/project3) |
 
 ## 🎯 Current Focus
 - Learning new technologies like Rust and Go
